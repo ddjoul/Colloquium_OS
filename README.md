@@ -3,13 +3,13 @@
 
 
 ## Ответ на "нулевой" вопросы
-Ответ на нулевые вопросы в файле [answer_first.docx](https://github.com/ddjoul/lab2-task1-gr11-zharnasek/blob/master/answer_first.docx).
+Ответ на нулевые вопросы в файле [answer_first.docx](https://github.com/ddjoul/lab2-task1-gr11-zharnasek/blob/main/answer_first.docx).
 
 ## Ответ на "основные" вопросы
-Ответ на основные вопросы в файле [answer_second.docx](https://github.com/ddjoul/lab2-task1-gr11-zharnasek/blob/master/answer_second.docx).
+Ответ на основные вопросы в файле [answer_second.docx](https://github.com/ddjoul/lab2-task1-gr11-zharnasek/blob/main/answer_second.docx).
 
 ## Задачи
-Код задач находится в папке [problems](https://github.com/ddjoul/Colloquium_OS/tree/master/problems).
+Код задач находится в папке [problems](https://github.com/ddjoul/Colloquium_OS/tree/main/problems).
 
 **Генерация факториалов**
 - Генерирует первые n факториалов с защитой от переполнения.
